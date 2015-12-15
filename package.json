@@ -1,6 +1,6 @@
 {
   "name": "ipinfodb-middleware",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An Express middleware to get the client IP & time details from ipinfodb.com",
   "main": "index.js",
   "dependencies": {
