@@ -1,0 +1,26 @@
+{
+  "name": "ipinfodb-middleware",
+  "version": "1.0.0",
+  "description": "An Express middleware to get the client IP & time details from ipinfodb.com",
+  "main": "index.js",
+  "dependencies": {
+    "ipinfodb": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgog/ipinfodb-middleware.git"
+  },
+  "keywords": [
+    "ipinfodb",
+    "middleware",
+    "express",
+    "ip",
+    "geoip"
+  ],
+  "author": "Jenil Gogari <i@jgog.in>",
+  "license": "ISC"
+}
